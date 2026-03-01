@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Androlyze</string>
+    <string name="view_button">View</string>
+    <string name="usb_events_title">USB Device Events</string>
+    <string name="no_events_yet">No events captured yet</string>
+    <string name="notification_channel_name">Daemon</string>
+    <string name="notification_channel_description">Androlyze logcat monitoring daemon</string>
+    <string name="notification_title">Androlyze</string>
+    <string name="notification_text">Monitoring logcat in background</string>
+    <string name="shizuku_not_running">Shizuku is not running. Please start Shizuku to grant READ_LOGS permission.</string>
+    <string name="shizuku_denied">Shizuku permission denied.</string>
+    <string name="vendor_product_format">vendorId: 0x%1$04X  productId: 0x%2$04X</string>
+    <string name="read_logs_denied">Could not obtain READ_LOGS permission.</string>
+</resources>

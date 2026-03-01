@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.Theme.Androlyze" parent="Theme.Material3.DayNight">
+    </style>
+
+    <style name="Theme.Androlyze" parent="Base.Theme.Androlyze" />
+
+</resources>
